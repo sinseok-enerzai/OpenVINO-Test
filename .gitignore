@@ -1,0 +1,5 @@
+openvino/
+build/
+build*
+models/
+.vscode/
